@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "name": "harsh",
+            "age": "20"
+        },
+        {
+            "name": "vanilla",
+            "age": "21"
+        }
+    ],
+    "blogs": [
+        {
+            "title": "learn node",
+            "body": "i am learning node"
+        },
+        {
+            "title": "learn express",
+            "body": "i am learning express"
+        }
+    ]
+}

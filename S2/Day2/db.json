@@ -1,0 +1,28 @@
+{
+    "students": [
+        {
+            "name": "chunnu",
+            "age": "18",
+            "loc": "delhi",
+            "studentCode": 10
+        },
+        {
+            "name": "munnu",
+            "age": "8",
+            "loc": "hyd",
+            "studentCode": 0
+        },
+        {
+            "name": "munfhdfhnu",
+            "age": "8455",
+            "loc": "efhh",
+            "studentCode": 0
+        },
+        {
+            "name": "munhhthfhdfhnu",
+            "age": "845gh5",
+            "loc": "efhdgfhhh",
+            "studentCode": 82
+        }
+    ]
+}
